@@ -2,7 +2,7 @@ schemaVersion: 2.1.0
 metadata:
   name: spring-petclinic-
   version: 2.0.0
-starterProjects:
+projects:
   - name: spring-petclinic
     source:
       type: git
