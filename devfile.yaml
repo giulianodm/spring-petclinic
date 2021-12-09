@@ -2,12 +2,9 @@ schemaVersion: 2.1.0
 metadata:
   name: spring-petclinic-
   version: 2.0.0
-projects:
-  - name: spring-petclinic
-    source:
-      type: git
-      location: 'https://github.com/giulianodm/spring-petclinic.git'
-      branch: main
+starterProjects:
+  - name: "spring-petclinic"
+    description: "Use this app to get a simple "hello world" nodejs application"  
 components:
   - id: redhat/java11/latest
     type: chePlugin
