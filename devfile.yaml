@@ -1,5 +1,7 @@
+v2.1
+---
+schemaVersion: 2.1.0
 apiVersion: 2.0.0
-schemaVersion: 1.0.0
 metadata:
   generateName: spring-petclinic-
 projects:
