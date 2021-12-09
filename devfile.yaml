@@ -4,7 +4,7 @@ metadata:
   version: 2.0.0
 starterProjects:
   - name: "spring-petclinic"
-    description: "Use this app to get a simple "hello world" nodejs application"  
+    description: "Use this app to get a simple nodejs application"  
 components:
   - id: redhat/java11/latest
     type: chePlugin
